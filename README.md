@@ -1,4 +1,24 @@
-# Distribution Properties
+
+# Non-Normal Option Pricing Comparison
+## Highlights
+
+- **Distribution catalog**: normal, [logistic](https://en.wikipedia.org/wiki/Logistic_distribution),
+  [Laplace (double exponential)](https://en.wikipedia.org/wiki/Laplace_distribution),
+  [hyperbolic secant](https://en.wikipedia.org/wiki/Hyperbolic_secant_distribution),
+  [Champernowne](https://en.wikipedia.org/wiki/Champernowne_distribution),
+  [generalized error (GED)](https://en.wikipedia.org/wiki/Generalized_normal_distribution),
+  [Johnson SU](https://en.wikipedia.org/wiki/Johnson%27s_SU-distribution),
+  [Tukey lambda](https://en.wikipedia.org/wiki/Tukey_lambda_distribution),
+  [hyperbolic](https://en.wikipedia.org/wiki/Hyperbolic_distribution),
+  [generalized hyperbolic (GH)](https://en.wikipedia.org/wiki/Generalized_hyperbolic_distribution),
+  [variance gamma (VG)](https://en.wikipedia.org/wiki/Variance-gamma_distribution),
+  [normal-inverse Gaussian (NIG)](https://en.wikipedia.org/wiki/Normal-inverse_Gaussian_distribution),
+  [CGMY/tempered stable](https://en.wikipedia.org/wiki/Financial_models_with_long-tailed_distributions_and_volatility_clustering),
+  [Natural Exponential Family - Generalized Hyperbolic Secant (NEF–GHS)](https://www.statistik.rw.fau.de/files/2016/03/d0042a.pdf), generalized/secant hyperbolic (GSH/SGSH),
+  [skew‑t (Jones–Faddy)](https://www.pp.rhul.ac.uk/~cowan/stat/skew_t_jones_and_faddy.pdf),
+  [skew normal](https://en.wikipedia.org/wiki/Skew_normal_distribution),
+  [asymmetric Laplace](https://en.wikipedia.org/wiki/Asymmetric_Laplace_distribution), [noncentral t](https://en.wikipedia.org/wiki/Noncentral_t-distribution), Student t, etc.
+## Distribution Properties
 
 The table below summarizes key characteristics for each log-return distribution
 implemented in this project.
